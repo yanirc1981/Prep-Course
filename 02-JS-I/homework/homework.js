@@ -1,3 +1,4 @@
+
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
@@ -228,7 +229,7 @@ function esVocal(letra){
   //Escribe tu código aquí
   if (letra.length > 1){
     return "Dato incorrecto"
-  }else if (letra === 'a' || letra === 'e' || letra === 'i' || legra === 'o' || letra === 'u'){
+  }else if (letra === 'a' || letra === 'e' || letra === 'i' || letra === 'o' || letra === 'u'){
  return "Es vocal"
   }else {
     return "Dato incorrecto"
